@@ -5,7 +5,7 @@ blue
  pink
 orange
 #####brown
-purple 
+purple
 yellow
 magenta
 
