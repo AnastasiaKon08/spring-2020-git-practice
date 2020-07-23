@@ -2,7 +2,13 @@ Toyota
 Mazda
 Honda
 Mercedes
+<<<<<<< Updated upstream
 Toyota
 Mazda
 Honda
 Mercedes
+
+KIA
+Tesla
+Jeep
+
